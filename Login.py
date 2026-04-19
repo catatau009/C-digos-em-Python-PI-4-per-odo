@@ -1,3 +1,4 @@
+"""
 Descrição:
 Este script Python demonstra um sistema de autenticação de login básico, uti
 apenas estruturas de dados em memória (dicionários) para simular o armazenam
